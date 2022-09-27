@@ -1,4 +1,4 @@
-# 2022-PO-LMO-HTML
+# WIKI-2022-PO-LMO-HTML
 
 Ici ce trouve le wiki du projet HTML des portes ouvertes 2022.
 

@@ -1,4 +1,4 @@
-# Fonctionnement PO
+# Démarrage de l'activité
 Concernant le stand, il y a deux manière de le faire fonctionner, la manière online ou local. Qu'il soit lancé d'une manière ou d'une autre, rien ne change au bon fonctionnement de l'application.
 ## Online
 C'est la méthode principale de lancement. On utilise une fonctionnalité `kiosk` de firefox pour restreindre certaines touches et options afin que l'utilisateur soit le moins perturbé durant son activité.
